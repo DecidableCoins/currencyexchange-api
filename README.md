@@ -1,4 +1,4 @@
-wlox-api
+currencyexchange-api
 ========
 
-Please see main repository documentation at [wlox/wlox](http://www.github.com/wlox/wlox) for instructions.
+Please see main repository documentation at [decidablecoins/currencyexchange](http://www.github.com/decidablecoins/currencyexchange) for instructions.
